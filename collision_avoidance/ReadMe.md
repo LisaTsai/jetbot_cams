@@ -1,4 +1,4 @@
-Collision avoidance code modification of the following cameras:
+### Collision avoidance code modification of the following cameras
 
 + IMX219
 + Logitech C270
