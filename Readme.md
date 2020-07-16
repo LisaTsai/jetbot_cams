@@ -1,4 +1,4 @@
-### Road following/Collision avoidance code modification of the following cameras:
+### Road following/Collision avoidance code modification of the following cameras
 
 + IMX219
 + Logitech C270
